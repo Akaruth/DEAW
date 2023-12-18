@@ -1,2 +1,6 @@
 Este es el fichero 1.
+
 Hola (para conflito)
+
+Adios (para conflito)
+
