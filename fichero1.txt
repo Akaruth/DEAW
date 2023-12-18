@@ -1,2 +1,2 @@
 Este es el fichero 1.
-Hola (para crear conflito)
+Hola (para conflito)
